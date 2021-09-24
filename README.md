@@ -1,6 +1,6 @@
-### Hi there 👋
+### Assalamualaikum 👋
 
-Welcome to my personal profile repository. My name is Muhammad Syafiq Mohd Pozi. I am currently an academician in Universiti Utara Malaysia
+Welcome to my personal profile repository. My name is Muhammad Syafiq Mohd Pozi. I am currently an academician in Universiti Utara Malaysia.
 
 <!--
 **spozi/spozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
